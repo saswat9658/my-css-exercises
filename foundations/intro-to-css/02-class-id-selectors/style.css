@@ -1,0 +1,25 @@
+/* styles.css */
+
+.first{
+    font-size:x-large;
+    background-color: pink;
+}
+
+.second{
+    font-size: xx-large;
+    background-color: pink;
+    font-weight: 900;
+}
+
+#third{
+    font-size: x-large;
+    font-weight:700;
+    color: blue;
+
+}
+
+#fourth{
+    font-size: larger;
+    font-weight: 600;
+    background-color: rgb(95, 238, 95);
+}

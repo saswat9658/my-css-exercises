@@ -1,0 +1,16 @@
+/* styles css */
+
+.first{
+    color: white;
+    background-color: black;
+}
+
+.second{
+    background-color: yellow;
+}
+
+.first,
+.second{
+    font: 28px Helvetica, "Times New Roman", sans-serif;
+
+}

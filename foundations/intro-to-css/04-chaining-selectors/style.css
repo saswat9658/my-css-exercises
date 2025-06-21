@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.avatar.proportioned{
+    height: auto;
+    width: 300px;
+}
+
+/* .avatar.distorted{
+    height: 400px;
+    width: 200px;
+} */
+
+.avatar {
+    border-radius: 50%; /* Makes them circular */
+    border: 2px solid grey;
+    margin: 10px;
+    /* ...other common avatar styles */
+}
